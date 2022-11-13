@@ -41,4 +41,4 @@ jobs:
         registry: docker.io
       
     - name: Print Push Statement
-      run: echo "Pushed"
+      run: echo "Pushed By Naveen"
